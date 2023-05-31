@@ -1,0 +1,19 @@
+/* スタイルの適用対象となる要素のスタイルを定義する */
+h1 {
+    color: blue;
+    font-size: 24px;
+  }
+  
+  p {
+    color: green;
+    font-size: 16px;
+  }
+  
+  /* ページ全体のスタイルを定義する */
+  body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
